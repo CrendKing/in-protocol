@@ -1,0 +1,9 @@
+{
+  "name": "d2-protocol",
+  "title": "D2 Protocol",
+  "id": "d2-protocol@CrendKing",
+  "description": "Support Rest.li D2 protocol (d2://)",
+  "author": "Crend King",
+  "license": "MPL 2.0",
+  "version": "1.0"
+}

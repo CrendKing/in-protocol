@@ -1,0 +1,1 @@
+This add-on adds the support for [Rest.li](http://rest.li) D2 protocol (d2://).
