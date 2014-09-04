@@ -5,5 +5,7 @@
   "description": "Support Rest.li D2 protocol (d2://)",
   "author": "Crend King",
   "license": "MPL 2.0",
-  "version": "1.0"
+  "version": "1.0",
+  "icon": "data/icon.png",
+  "icon64": "data/icon.png"
 }
